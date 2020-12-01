@@ -1,1 +1,1 @@
-A simple python HTTP Based client / server reverse shell
+A simple python HTTP client / server reverse shell
